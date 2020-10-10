@@ -9,7 +9,7 @@
 * [MagicPods](https://www.microsoft.com/en-us/p/magicpods/9p6skkfkshkm?activetab=pivot:overviewtab) - анимация AirPods как на маках и айфонах; показывает заряд наушников
 * [ScreenToGif](https://www.screentogif.com/) - запись и редактирование гиф
 * [Uncheckly](https://unchecky.com/) - убирает галочки(Яндекс браузер, танки, ВК и тд) при установке программ
-* [WinToLinux](https://github.com/Toxblh/WinToLinux) - позволяет перезгрузится на другую ОС
+* [WinToLinux](https://github.com/Toxblh/WinToLinux) - позволяет перезагрузится на другую ОС
 * [Monitorian](https://github.com/emoacht/Monitorian) - управление якростью внешнего монитора по DDC/CI
 * [Notable](https://notable.app/) - удобный MarkDown редактор
 * [OBS Studio](https://obsproject.com/ru) - запись или стриминг
