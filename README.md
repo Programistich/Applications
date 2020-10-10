@@ -16,3 +16,4 @@
 * [QuickLook](https://github.com/QL-Win/QuickLook) - позволяет посмотреть файл по нажатию 'Space'
 * [WPS Perfomce Station](https://winperst.ru/wps-performance-station/ru) - оптимизация ПК с помощью крутых нейронок
 ## Linux
+* [AAC/AptX/AptX HD/LDAC](https://toxblh.com/linux-sound-ldac/) - если у вас bluetooth наушники, которые могут в AAC/AptX/AptX HD/LDAC
