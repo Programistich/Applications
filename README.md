@@ -12,10 +12,15 @@
 * [Discord](https://discord.com/download) - месенджер для голосовых сборов
 * [WinRar](https://www.win-rar.com/predownload.html?&L=4) - архиватор
 * [Todorant](https://todorant.com/) - Лучшая система продуктивности
+* [Notepad++](https://notepad-plus-plus.org/downloads/) - редактор
 * [Microsoft Office](https://portal.office.com/account#installs&SoftwareManageLayout=Panel_MicrosoftOffice_ClientDownload), [Teams](https://teams.microsoft.com/) - приложения от Майкрасофт для общей работы
 * [Uncheckly](https://unchecky.com/) - убирает галочки(Яндекс браузер, танки, ВК и тд) при установке программ
+* [Zoom](https://ukma-edu-ua.zoom.us/download) - программа для конференций
 * [WinToLinux](https://github.com/Toxblh/WinToLinux) - позволяет перезагрузится на другую ОС
 * [Monitorian](https://github.com/emoacht/Monitorian) - управление якростью внешнего монитора по DDC/CI
+* [LightShot](https://app.prntscr.com/ru/) - замена дефолтной програмы для скриншотов
+* [Microsoft Store](https://4pda.ru/forum/index.php?showtopic=926185) - магазин приложений от Microsoft
+* [Microfot Defender](https://remontka.pro/windows-defender-turn-off/) - отключаем защитник
 * [Notable](https://notable.app/) - удобный MarkDown редактор
 * [OBS Studio](https://obsproject.com/ru) - запись или стриминг
 * [QuickLook](https://github.com/QL-Win/QuickLook) - позволяет посмотреть файл по нажатию 'Space'
