@@ -23,8 +23,11 @@
 * [Microfot Defender](https://remontka.pro/windows-defender-turn-off/) - отключаем защитник
 * [Notable](https://notable.app/) - удобный MarkDown редактор
 * [OBS Studio](https://obsproject.com/ru) - запись или стриминг
+* [TeamViewer](https://www.teamviewer.com/ru/%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C/windows/)
 * [QuickLook](https://github.com/QL-Win/QuickLook) - позволяет посмотреть файл по нажатию 'Space'
 * [WPS Perfomce Station](https://winperst.ru/wps-performance-station/ru) - оптимизация ПК с помощью крутых нейронок
 * [Win10 Tweaks](https://telegra.ph/Optimizaciya-raboty-Windows-10-05-22) - оптимизация Windows 10
-## Linux
-* [AAC/AptX/AptX HD/LDAC](https://toxblh.com/linux-sound-ldac/) - если у вас bluetooth наушники, которые могут в AAC/AptX/AptX HD/LDAC
+* [Figma](https://www.figma.com/downloads/)
+* [PyCharm]()
+* [WebStorm]()
+* [WinDirStart](https://windirstat.net/download.html) - 
