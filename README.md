@@ -29,8 +29,8 @@
 * [PyCharm](https://www.jetbrains.com/pycharm/) - IDE для питона
 * [WebStorm](https://www.jetbrains.com/webstorm/) - IDE для web
 * [WinDirStart](https://windirstat.net/download.html) - статистика файлов
-* [PowerToys](https://github.com/microsoft/PowerToys) - это набор утилит для опытных пользователей, позволяющих настроить и оптимизировать работу с Windows для повышения производительности
-* [Dynalist](https://dynalist.io/) -  это сервис, в котором вы создаете папку с любым названием, а внутри нее — любое количество документов. Документ – это простой текст, это список, это пронумерованный список, это список в виде чек-листа, это список с раскрывающимся подпунктом или списком
+* [PowerToys](https://github.com/microsoft/PowerToys) - упрощение для пользования винды
+* [Dynalist](https://dynalist.io/) - аналог Workflowly
 * [Adobe Acrоbat](https://acrobat.adobe.com/ru/ru/acrobat.html) - ридер пдф
 * [Android Studio](https://developer.android.com/studio) - IDE для android
 * [File converter](https://file-converter.org/) - позволяет в контекстном меню конвертировать файлы
