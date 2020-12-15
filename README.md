@@ -5,7 +5,6 @@
 * [AudiBand](https://github.com/dsafa/audio-band) - Audio Band позволяет отображать информацию о песне на панели задач(Spotify, iTunes, MusicBee)
 * [Everything](https://www.voidtools.com/ru-ru/) - программа для быстрого поиска файлов и папок по их имени(быстрее чем поиск от Windows)
 * [Firework](https://firework.cloud/en/windows) - позволяет создать настольную программу в виде веб страниц
-* [FS клиент](https://fsclient.github.io/fs/) - позволяет смотреть онлайн или скачивать фильмы и сериалы с различных источников: filmix; zona; shikimori; seasonvar; videocdn и других.
 * [MagicPods](https://www.microsoft.com/en-us/p/magicpods/9p6skkfkshkm?activetab=pivot:overviewtab) - анимация AirPods как на маках и айфонах; показывает заряд наушников
 * [Spotify](https://www.spotify.com/ua/download) - приложение стримингового сервиса
 * [Telegram](https://telegram.org) - месенджер от Дурова
@@ -22,12 +21,12 @@
 * [Microsoft Store](https://4pda.ru/forum/index.php?showtopic=926185) - магазин приложений от Microsoft
 * [Microfot Defender](https://remontka.pro/windows-defender-turn-off/) - отключаем защитник
 * [Notable](https://notable.app/) - удобный MarkDown редактор
+* [Obsidian](https://obsidian.md/) - то мощная база знаний, которая работает поверх
+локальной папки с текстовыми файлами Markdown
 * [OBS Studio](https://obsproject.com/ru) - запись или стриминг
 * [TeamViewer](https://www.teamviewer.com/ru/%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C/windows/)
 * [QuickLook](https://github.com/QL-Win/QuickLook) - позволяет посмотреть файл по нажатию 'Space'
-* [WPS Perfomce Station](https://winperst.ru/wps-performance-station/ru) - оптимизация ПК с помощью крутых нейронок
-* [Win10 Tweaks](https://telegra.ph/Optimizaciya-raboty-Windows-10-05-22) - оптимизация Windows 10
-* [Figma](https://www.figma.com/downloads/)
-* [PyCharm]()
-* [WebStorm]()
+* [Figma](https://www.figma.com/downloads/) - дизайн
+* [PyCharm](https://www.jetbrains.com/pycharm/) - IDE для питона
+* [WebStorm](https://www.jetbrains.com/webstorm/) - IDE для web
 * [WinDirStart](https://windirstat.net/download.html) - 
