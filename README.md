@@ -1,4 +1,3 @@
-# ПО
 ## Windows
 * [Rufus](https://rufus.ie/) - утилита, которая помогает форматировать и создавать загрузочные Flash/Pen/Key диски, карты памяти и т.д
 * [AIDA](https://www.aida64russia.com/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C) - получаем всю информацию про ваш пк
@@ -33,3 +32,6 @@
 * [PowerToys](https://github.com/microsoft/PowerToys) - это набор утилит для опытных пользователей, позволяющих настроить и оптимизировать работу с Windows для повышения производительности
 * [Dynalist](https://dynalist.io/) -  это сервис, в котором вы создаете папку с любым названием, а внутри нее — любое количество документов. Документ – это простой текст, это список, это пронумерованный список, это список в виде чек-листа, это список с раскрывающимся подпунктом или списком
 * [Adobe Acrоbat](https://acrobat.adobe.com/ru/ru/acrobat.html) - ридер пдф
+* [Android Studio](https://developer.android.com/studio) - IDE для android
+* [File converter](https://file-converter.org/) - позволяет в контекстном меню конвертировать файлы
+* [Transmission](https://transmissionbt.com/download/) - кроссплатформенный BitTorrent-клиент
