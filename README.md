@@ -1,8 +1,7 @@
 ## Windows
 * [Rufus](https://rufus.ie/) - утилита, которая помогает форматировать и создавать загрузочные Flash/Pen/Key диски, карты памяти и т.д
-* [AIDA](https://www.aida64russia.com/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C) - получаем всю информацию про ваш пк
-* [AudiBand](https://github.com/dsafa/audio-band) - Audio Band позволяет отображать информацию о песне на панели задач(Spotify, iTunes, MusicBee)
-* [UELI](https://ueli.app/#/) - аналог Spotlight
+* [AudiBand](https://github.com/dsafa/audio-band) - Audio Band позволяет отображать информацию о песне на панели задач(Spotify, iTunes, MusicBee) + конфиг приложен
+* [UELI](https://ueli.app/#/) - аналог Spotlight + конфиг приложен
 * [Firework](https://firework.cloud/en/windows) - позволяет создать настольную программу в виде веб страниц
 * [MagicPods](https://www.microsoft.com/en-us/p/magicpods/9p6skkfkshkm?activetab=pivot:overviewtab) - анимация AirPods как на маках и айфонах; показывает заряд наушников
 * [Spotify](https://www.spotify.com/ua/download) - приложение стримингового сервиса
@@ -30,8 +29,9 @@
 * [WebStorm](https://www.jetbrains.com/webstorm/) - IDE для web
 * [WinDirStart](https://windirstat.net/download.html) - статистика файлов
 * [PowerToys](https://github.com/microsoft/PowerToys) - упрощение для пользования винды
-* [Dynalist](https://dynalist.io/) - аналог Workflowly
 * [Adobe Acrоbat](https://acrobat.adobe.com/ru/ru/acrobat.html) - ридер пдф
 * [Android Studio](https://developer.android.com/studio) - IDE для android
 * [File converter](https://file-converter.org/) - позволяет в контекстном меню конвертировать файлы
 * [Transmission](https://transmissionbt.com/download/) - кроссплатформенный BitTorrent-клиент
+* [Eartrumpet](https://eartrumpet.app/) - микшер громкости
+* [Git](https://git-scm.com/downloads) -
