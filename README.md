@@ -1,4 +1,5 @@
 ## Windows
+* [Brave](https://brave.com/) - Web Browser
 * [Rufus](https://rufus.ie/) - утилита, которая помогает форматировать и создавать загрузочные Flash/Pen/Key диски, карты памяти и т.д
 * [AudiBand](https://github.com/dsafa/audio-band) - Audio Band позволяет отображать информацию о песне на панели задач(Spotify, iTunes, MusicBee) + конфиг приложен
 * [UELI](https://ueli.app/#/) - аналог Spotlight + конфиг приложен
@@ -22,9 +23,12 @@
 * [PyCharm](https://www.jetbrains.com/pycharm/) - IDE для питона
 * [WebStorm](https://www.jetbrains.com/webstorm/) - IDE для web
 * [Android Studio](https://developer.android.com/studio) - IDE для android
+* [CLion](https://www.jetbrains.com/clion/) - IDE C/C++
 * [WinDirStart](https://windirstat.net/download.html) - статистика файлов
 * [PowerToys](https://github.com/microsoft/PowerToys) - упрощение для пользования винды
 * [File converter](https://file-converter.org/) - позволяет в контекстном меню конвертировать файлы
 * [Transmission](https://transmissionbt.com/download/) - кроссплатформенный BitTorrent-клиент
 * [Eartrumpet](https://eartrumpet.app/) - микшер громкости
 * [Git](https://git-scm.com/downloads) - git
+* [Git Desktop](https://desktop.github.com/) - utills for GitHub
+* [MySQL](http://dev.mysql.com/downloads/mysql/) - mysql 
