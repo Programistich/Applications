@@ -24,6 +24,8 @@
 * [WebStorm](https://www.jetbrains.com/webstorm/) - IDE для web
 * [Android Studio](https://developer.android.com/studio) - IDE для android
 * [CLion](https://www.jetbrains.com/clion/) - IDE C/C++
+* [NodeJS](https://nodejs.org) - node + npm
+* [Putty](https://www.putty.org/) - ssh client
 * [WinDirStart](https://windirstat.net/download.html) - статистика файлов
 * [PowerToys](https://github.com/microsoft/PowerToys) - упрощение для пользования винды
 * [File converter](https://file-converter.org/) - позволяет в контекстном меню конвертировать файлы
@@ -32,3 +34,4 @@
 * [Git](https://git-scm.com/downloads) - git
 * [Git Desktop](https://desktop.github.com/) - utills for GitHub
 * [MySQL](http://dev.mysql.com/downloads/mysql/) - mysql 
+* [NextCloud](https://nextcloud.com/install/#install-clients) - virtual cloud
