@@ -35,6 +35,6 @@
 * [Git Desktop](https://desktop.github.com/) - utills for GitHub
 * [MySQL](http://dev.mysql.com/downloads/mysql/) - mysql 
 * [NextCloud](https://nextcloud.com/install/#install-clients) - virtual cloud
-* [VNC Viewer]
-* [VMware] -
+* [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) - vnc connect
+* [VMware](https://download3.vmware.com/software/player/file/VMware-player-16.1.0-17198959.exe) - virtual
 * VMware Unlocker для всех версий VMware- версия [VMware 10](https://cloud.mail.ru/public/JUj6/BBpnYWUJj) и ниже или версия [VMware 11 и выше](https://cloud.mail.ru/public/KfL5/9FvvKLvEx)
