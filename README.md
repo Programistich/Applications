@@ -37,4 +37,4 @@
 * [NextCloud](https://nextcloud.com/install/#install-clients) - virtual cloud
 * [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) - vnc connect
 * [VMware](https://download3.vmware.com/software/player/file/VMware-player-16.1.0-17198959.exe) - virtual
-* VMware Unlocker для всех версий VMware- версия [VMware 10](https://cloud.mail.ru/public/JUj6/BBpnYWUJj) и ниже или версия [VMware 11 и выше](https://cloud.mail.ru/public/KfL5/9FvvKLvEx)
+* VMware Unlocker для всех версий VMware- версия [VMware 10](https://cloud.mail.ru/public/JUj6/BBpnYWUJj) и ниже или версия [VMware 11 и выше](https://cloud.mail.ru/public/KfL5/9FvvKLvEx) && [MacOS15](https://mail.google.com/mail/u/0?ui=2&ik=4ef53ae9a2&attid=0.1&permmsgid=msg-f:1684823358092355177&th=1761b1eae8602669&view=att&disp=safe&realattid=f_ki531dd40)
